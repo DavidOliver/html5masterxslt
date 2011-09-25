@@ -16,8 +16,7 @@
 			<link rel="stylesheet" href="{$workspace}/styles/style.css" />
 			<script src="{$workspace}/scripts/modernizr.js"></script>
 		</head>
-		<body>
-			<xsl:attribute name="class"><xsl:value-of select="concat('page-',$current-page)"/></xsl:attribute>
+		<body class="page-{$current-page}">
 			<a href="#content-main" class="skip">Skip to main content</a>
 			<header>
 				<h1><xsl:value-of select="$page-title"/></h1>
