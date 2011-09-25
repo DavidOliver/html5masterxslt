@@ -24,6 +24,6 @@ Modernizr changes the "no-js" class of the html tag to "js" if the visiting brow
 
 It also makes Internet Explorer render and style the new HTML5 elements.
 
-  [1]: /discuss/thread/43003/
+  [1]: http://symphony-cms.com/discuss/thread/43003/
   [2]: https://github.com/domain7/html5_doctype
   [3]: http://www.modernizr.com/
